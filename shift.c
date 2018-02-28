@@ -1,5 +1,6 @@
 #include <wiringPi.h>
 #include <wiringShift.h>
+#include <stdio.h>
 
 const int latchPin = 0;
 const int dataPin = 2;
